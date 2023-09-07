@@ -13,10 +13,15 @@
 </p>
 
 #### Project Scope:
-This project involved analyzing clients query data to identify trends, root causes, and opportunities to improve resolution times. The goal was to create an interactive dashboard to illuminate insights for leadership and process improvement teams to optimize workflows and enhance speed and quality of query resolution. In summary, the dashboard centralizes and visualizes key statistics to drive faster, more effective issue resolution.
+<p>This project involved analyzing clients query data to identify trends, root causes, and opportunities to improve resolution times. The goal was to create an interactive dashboard to illuminate insights for leadership and process improvement teams to optimize workflows and enhance speed and quality of query resolution. In summary, the dashboard centralizes and visualizes key statistics to drive faster, more effective issue resolution.</p>
 
 ####
 <a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/PerformanceAnalyticsDashboard_16940063664880/PerformanceAnalyticsDashboard"><img src="Performance Analytics Dashboard.png"></img></a>
+
+#### Dashboard Features:
+- Filters on teams and individuals enable users to drill down into more granular performance insights. The filters provide the ability to analyze specific team and individual assignee metrics in detail.
+- The dashboard has interactive visualizations with cross-filtering functionality. Clicking on one chart filters the data in other charts.
+
 #### Who It's For:
 The leadership team and process improvement teams can use this dashboard to identify opportunities for faster resolution and optimal processes by analyzing root causes, resolution times, trends, and top query-generating processes.
 
