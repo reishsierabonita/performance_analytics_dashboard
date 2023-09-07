@@ -1,4 +1,4 @@
-# <h1> Performance Analytics Dashboard </h>
+# <h1> 📈📊📉 Performance Analytics Dashboard </h>
 
 #### 🙋‍♂️ Introduction:
 <p>
