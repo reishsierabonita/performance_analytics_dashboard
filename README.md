@@ -4,13 +4,16 @@
 <p>
   In 2022, I participated in our company's first-ever hackathon challenge, "Illuminating Statistics via Dashboard." 
   We were given a dataset and tasked with deriving insights from it. Fortunately, 
-  I secured the first-place position by crafting an interactive and insightful microstrategy dashboard.<p>
+  I secured the first-place position by crafting an interactive and insightful microstrategy dashboard.
+</p>
 <p>
   However, the dashboard couldn't be shared publicly due to data-sharing issues and the need to protect company information. 
   To address this, I modified the data to ensure no sensitive company details were revealed. 
-  In this project, I have replicated and further improved upon the dashboard that earned me the first-place award.</p>
-<p>
-#### Project Scope:
+  In this project, I have replicated and further improved upon the dashboard that earned me the first-place award.
+</p>
+
+#### 
+  Project Scope:
 ???
 
 
