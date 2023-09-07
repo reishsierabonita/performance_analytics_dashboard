@@ -12,21 +12,24 @@
   In this project, I have replicated and further improved upon the dashboard that earned me the first-place award.
 </p>
 
-#### 
-  Project Scope:
-???
-
+#### Project Scope:
+This project involved analyzing clients query data to identify trends, root causes, and opportunities to improve resolution times. The goal was to create an interactive dashboard to illuminate insights for leadership and process improvement teams to optimize workflows and enhance speed and quality of query resolution. In summary, the dashboard centralizes and visualizes key statistics to drive faster, more effective issue resolution.
 
 ####
-<a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/PerformanceAnalyticsDashboard_16940063664880/PerformanceAnalyticsDashboard#1"><img src="Performance Analytics Dashboard.png"></img></a>
+<a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/PerformanceAnalyticsDashboard_16940063664880/PerformanceAnalyticsDashboard"><img src="Performance Analytics Dashboard.png"></img></a>
 #### Who It's For:
 The leadership team and process improvement teams can use this dashboard to identify opportunities for faster resolution and optimal processes by analyzing root causes, resolution times, trends, and top query-generating processes.
 
 #### Key Insights:
-<ul>
-  <li>???</li>
-</ul>
+- The team with the highest average working days to resolve queries was Dynamo at 16.14 days. The best performing team was Alloy at 8.29 days on average.
+- The client with the longest average query resolution time was SmartTech Innovations at 12.42 days. The fastest was Quantum Systems Group at 8.97 days.
+- Process-Linked (G) was the top root cause, averaging 41 days to resolve
 
 #### Recommendations:
-<p>???</p>
-<p>???</p>
+- Provide additional training/support for the Dynamo team, which takes the longest at 16.14 days on average.
+- Consider workload balancing for top performers like Dynamo to assist other teams.
+- Set up performance improvement plans for the bottom 3 clients by resolution time.
+- Analyze trend of increasing monthly query volume and prepare capacity plans.
+- Continue monitoring this dashboard for additional insights over time.
+
+In summary, the dashboard shows opportunities to improve query response times, particularly for the poorer performing teams and clients. Addressing the process-linked root causes could also help reduce resolution times.
