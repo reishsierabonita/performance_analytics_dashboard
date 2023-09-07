@@ -19,7 +19,7 @@
 <a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/PerformanceAnalyticsDashboard_16940063664880/PerformanceAnalyticsDashboard"><img src="Performance Analytics Dashboard.png"></img></a>
 
 #### Dashboard Features:
-- Filters on teams and individuals enable users to drill down into more granular performance insights. The filters provide the ability to analyze specific team and individual assignee metrics in detail.
+- Filters on teams, individuals and clients enable users to drill down into more granular performance insights. The filters provide the ability to analyze specific team, individual assignee and clients metrics in detail.
 - The dashboard has interactive visualizations with cross-filtering functionality. Clicking on one chart filters the data in other charts.
 
 #### Who It's For:
